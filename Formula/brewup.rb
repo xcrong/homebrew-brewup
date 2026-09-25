@@ -1,7 +1,6 @@
 class Brewup < Formula
   desc "One-command Homebrew update, upgrade, and cleanup"
   homepage "https://github.com/xcrong/brewup"
-  version "0.2.1"
   license "MIT"
 
   livecheck do
